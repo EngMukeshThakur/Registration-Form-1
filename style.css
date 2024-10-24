@@ -1,0 +1,38 @@
+#parent{
+        width: 350px;
+        height: 550px;
+        background-color:aliceblue;
+        padding: 15px;
+        border-radius: 10px;
+        margin: auto;
+        border: 2px solid gray;
+    }
+input[type='text']{
+        height: 35px;
+        display: block;
+        width: 100%;
+        border-radius: 1px gray;
+        border-radius: 1px;
+    }
+input[type='radio']{
+        margin-top: 15px;
+        display: inline-block;
+    }
+input[type='submit']{
+        height: 35px;
+        display: block;
+        width: 100%;
+        border-radius: 1px;
+    }
+input[type='email']{
+        height: 35px;
+        display: block;
+        width: 100%;
+        border-radius: 1px;
+    }
+input[type='date']{
+        height: 25px;
+        display: block;
+        border-radius: 1px;
+        width: 50%;
+    }
